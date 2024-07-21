@@ -6,6 +6,7 @@
     transition: 0.3s;
     animation: fadeIn 1;
     height:max-content;
+    
 }
 
 .food-item-image{
@@ -56,6 +57,7 @@
     right: 15px;
     cursor: pointer;
     border-radius: 50%;
+    cursor: pointer;
 }
 .food-item-counter{
     position: absolute;
@@ -67,6 +69,7 @@
     padding: 6px;
     border-radius: 30px;
     background-color: white;
+    cursor: pointer;
 }
 
 .food-item-counter img{
