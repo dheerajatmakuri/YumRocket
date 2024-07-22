@@ -26,7 +26,6 @@ const Navbar = ({setShowLogin}) => {
             <div className={getTotalCartAmount()===0?"":"dot"}></div>
         </div>
               <button onClick={()=>setShowLogin(true)}>Sign In</button>
-              <button>Sign Out</button>
       </div>
     </div>
   )
