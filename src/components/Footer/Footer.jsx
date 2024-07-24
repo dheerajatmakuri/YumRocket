@@ -31,14 +31,21 @@ const Footer = () => {
     </div>
     
     <div className="footer-social-icons">
-                <img src={assets.facebook_icon} alt="" />
-                <img src={assets.linkedin_icon} alt="" />
-                <img src={assets.twitter_icon} alt="" />
-    </div>
+    <a href="https://www.facebook.com" target="_blank">
+        <img src={assets.facebook_icon} alt="Facebook" />
+    </a>
+    <a href="https://www.linkedin.com" target="_blank">
+        <img src={assets.linkedin_icon} alt="LinkedIn" />
+    </a>
+    <a href="https://www.twitter.com" target="_blank">
+        <img src={assets.twitter_icon} alt="Twitter" />
+    </a>
+</div>
+
     <hr />
     <p className='footer-copyright'>Copyright 2024 © yumrocket.com - All Rights Reserved.</p>
     </div>
   )
 }
 
-export default Footer
+export default Footer;
