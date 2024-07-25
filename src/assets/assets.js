@@ -328,7 +328,7 @@ export const food_list = [
     image: food_23,
     price: 10,
     description:
-      "Aromatic rice cooked with a variety of garden vegetables, seasoned with traditional Indian spices.",
+      "Aromatic rice cooked with a variety of vegetables, seasoned with traditional Indian spices.",
     category: "Veg",
   },
   {
