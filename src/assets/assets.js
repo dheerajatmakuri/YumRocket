@@ -311,7 +311,7 @@ export const food_list = [
     price: 14,
     description:
       "Sautéed mushrooms with garlic and herbs, a perfect blend of flavors in every bite.",
-    category: "Pure Veg",
+    category: "Veg",
   },
   {
     _id: "22",
@@ -320,7 +320,7 @@ export const food_list = [
     price: 22,
     description:
       "Crispy fried cauliflower tossed in a sweet and spicy sauce, a delicious vegan treat.",
-    category: "Pure Veg",
+    category: "Veg",
   },
   {
     _id: "23",
@@ -329,7 +329,7 @@ export const food_list = [
     price: 10,
     description:
       "Aromatic rice cooked with a variety of garden vegetables, seasoned with traditional Indian spices.",
-    category: "Pure Veg",
+    category: "Veg",
   },
   {
     _id: "24",
@@ -338,7 +338,7 @@ export const food_list = [
     price: 12,
     description:
       "Lightly fried zucchini mixed with fluffy rice, seasoned with garlic and pepper for a simple yet satisfying dish.",
-    category: "Pure Veg",
+    category: "Veg",
   },
   {
     _id: "25",
