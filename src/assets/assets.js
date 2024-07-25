@@ -301,7 +301,7 @@ export const food_list = [
     image: food_20,
     price: 15,
     description:
-      "Elegantly sliced multi-layer cake, each layer offering a new flavor sensation.",
+      "Elegantly sliced multi-layer cake, each layer offering a new flavor sensations.",
     category: "Cake",
   },
   {
@@ -319,7 +319,7 @@ export const food_list = [
     image: food_22,
     price: 22,
     description:
-      "Crispy fried cauliflower tossed in a sweet and spicy sauce, a delicious vegan treat.",
+      "Crispy fried cauliflower tossed in a sweet and spicy sauce, a delicious veg treat.",
     category: "Veg",
   },
   {
