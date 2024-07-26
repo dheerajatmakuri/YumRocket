@@ -60,7 +60,7 @@ Stripe is used for payment processing. Users can add items to their cart and pro
 2. **Proceed to Checkout**: Users proceed to the checkout page.
 3. **Payment Processing**: Users enter their payment details and complete the transaction using Stripe.
 
-## Stripe Dummy card - 4000003560000008
+### Stripe Dummy card - 4000003560000008
  
 
 
