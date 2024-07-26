@@ -8,6 +8,9 @@ import Cart from "./pages/Cart/Cart";
 import PlaceOrder from "./pages/PlaceOrder/PlaceOrder";
 import Footer from "./components/Footer/Footer";
 import LoginPopup from "./components/LoginPopup/LoginPopup";
+import Verify from "./pages/Verify/Verify";
+import MyOrders from "./pages/MyOrders/MyOrders";
+// import Orders from "./pages/Orders/Orders";
 
 
 const App = () => {
@@ -22,7 +25,9 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Cart" element={<Cart />} />
-          <Route path="/Order" element={<PlaceOrder />} />
+          <Route path="/order" element={<PlaceOrder />} />
+          <Route path="/verify" element={<Verify />} />
+          <Route path="/myorders" element={<MyOrders/>}/>
         </Routes>
       </div>
       <Footer />
@@ -30,4 +35,7 @@ const App = () => {
   );
 };
 
+
 export default App;
+
+

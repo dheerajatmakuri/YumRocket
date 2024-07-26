@@ -319,11 +319,7 @@ export const food_list = [
     image: food_22,
     price: 22,
     description:
-<<<<<<< HEAD
       "Crispy fried cauliflower tossed in a sweet and spicy sauce, a delicious veg treat.",
-=======
-      "Crispy fried cauliflower tossed in a sweet and spicy sauce, a delicious vegan treat.",
->>>>>>> 8803bcf352cb634c194eaee06338c4ab9cf53d7a
     category: "Veg",
   },
   {
@@ -332,7 +328,7 @@ export const food_list = [
     image: food_23,
     price: 10,
     description:
-      "Aromatic rice cooked with a variety of vegetables, seasoned with traditional Indian spices.",
+      "Aromatic rice cooked with a variety of garden vegetables, seasoned with traditional Indian spices.",
     category: "Veg",
   },
   {
