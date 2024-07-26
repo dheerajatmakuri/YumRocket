@@ -2,6 +2,8 @@
  
  ![Screenshot 2024-07-22 154713](https://github.com/user-attachments/assets/cc8db0bc-f64a-439f-a573-6d33e028edb1)
 
+ ## Admin Panel
+
  ![image](https://github.com/user-attachments/assets/bffa1199-98d0-4645-9683-e64fe4586b5c)
 
 
