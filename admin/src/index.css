@@ -2,7 +2,7 @@
 
 *{
   padding: 0;
-  border: 0;
+  border: 20px;
   box-sizing: border-box;
   font-family: Outfit;
 }
@@ -32,3 +32,12 @@ hr{
   flex-direction: column;
   gap: 10px;
 }
+
+.add-img-upload img{
+  width: 120px;
+}
+
+.add-product-name, .add-product-description{
+  width: max(40%,280px);
+}
+
