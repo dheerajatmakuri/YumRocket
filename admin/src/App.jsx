@@ -11,7 +11,7 @@ import "react-toastify/dist/ReactToastify.css";
 const App = () => {
 
   // const url = "http://localhost:4000"
-  export const url = 'https://yumrocket-backend.onrender.com'
+  const url = 'https://yumrocket-backend.onrender.com'
 
   
   return (
