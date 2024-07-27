@@ -7,7 +7,8 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
 // placing user order from frontend
 const placeOrder = async (req, res) => {
-  const frontend_url = "http://localhost:5173";
+  // const frontend_url = "http://localhost:5173";
+  const frontend_url = "https://yumrocket-frontend.onrender.com/";
 
   try {
     const newOrder = new orderModel({
